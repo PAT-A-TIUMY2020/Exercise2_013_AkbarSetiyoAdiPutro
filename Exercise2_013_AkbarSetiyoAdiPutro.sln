@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service_013_AkbarSetiyoAdiPutro", "Service_013_AkbarSetiyoAdiPutro\Service_013_AkbarSetiyoAdiPutro.csproj", "{DBE40091-EE26-4C03-9F83-726A117F6925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_013_AkbarSetiyoAdiPutro", "Server_013_AkbarSetiyoAdiPutro\Server_013_AkbarSetiyoAdiPutro.csproj", "{D3CB981D-D9C1-4D43-B28A-C8AEB64781EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE40091-EE26-4C03-9F83-726A117F6925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE40091-EE26-4C03-9F83-726A117F6925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE40091-EE26-4C03-9F83-726A117F6925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE40091-EE26-4C03-9F83-726A117F6925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CB981D-D9C1-4D43-B28A-C8AEB64781EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CB981D-D9C1-4D43-B28A-C8AEB64781EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CB981D-D9C1-4D43-B28A-C8AEB64781EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CB981D-D9C1-4D43-B28A-C8AEB64781EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372A85F3-985A-430C-B26E-0E648A7EB150}
+	EndGlobalSection
+EndGlobal
